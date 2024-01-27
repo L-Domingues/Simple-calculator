@@ -5,8 +5,8 @@ from tkinter import *
 from tkinter import ttk
 
 #cores
-cor1 = '#232924' #balck
-cor2 = '#f5f1ed'  #white
+cor1 = '#232924' #black
+cor2 = '#f5f1ed' #white
 cor3 = '#1b214d' #blue
 cor4 = '#bbbcc4' #gray
 cor5 = '#eb7d00' #orange
