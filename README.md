@@ -1,6 +1,6 @@
 # Simple-calculator
 
-# importando tkinter
+#importando tkinter
 from tkinter import *
 from tkinter import ttk
 
